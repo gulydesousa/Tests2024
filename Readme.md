@@ -13,6 +13,8 @@ Preguntas de examen de diferentes fuentes:
 
 ## 🗃 Adrew_Brown.one
 
-Cheat cheets
+Cheat sheets
 
+## ⭐ AI-900_MyPool\
 
+👻 _ABrown.docx_: Selección para el Pool Común
