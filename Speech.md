@@ -1,7 +1,7 @@
 ## 🗣 ↔ 🧾 Azure AI Language Service
 Recognize and synthesize speech by using Azure AI Speech.
 
-| Aspecto                           | Descripción                                                                 |
+|                            |                                                                  |
 |-----------------------------------|-----------------------------------------------------------------------------|
 | 🧾**Speech Recognition**            | Detecta y interpreta entrada hablada.                                         |
 |   - **Speech-to-Text**            | Convierte audio a texto.                                                     |
