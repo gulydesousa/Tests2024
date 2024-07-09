@@ -4,7 +4,7 @@ Includes features for understanding and analyzing text.
 
 |                                 | Description                                                                                              |
 |----------------------------------------|----------------------------------------------------------------------------------------------------------|
-| **Sentiment Analysis**                 | Opinion mining to categorize text as positive, neutral, or negative. Prebuilt machine learning classification model to evaluate text. Categories: positive, neutral, negative.  <br>- Positive score: **0.90**  <br>- Neutral score: **0.10**  <br>- Negative score: **0.00** |
+| **Sentiment Analysis**                 | Opinion mining to categorize text as positive, neutral, or negative. <br>Uses **Prebuilt** machine learning classification model to evaluate text.<br>Categories: <span style="color:#D64B91">**positive, neutral, negative**</span>.  <br>- Positive score: **0.90**  <br>- Neutral score: **0.10**  <br>- Negative score: **0.00** |
 | **Text Analysis**                      | Identifies key terms or named entities in text.                                                          |
 | **Named Entity Recognition (NER)**     | Identifies people, places, events, and more. Can be customized to extract custom categories.             |
 | **Entity Linking**                     | Identifies known entities together with a link to Wikipedia.                                             |
