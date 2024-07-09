@@ -12,7 +12,7 @@ Includes features for understanding and analyzing text.
 | **Key Phrase Extraction**              | Lists the main concepts from unstructured text.                                                          |
 | **Text Summarization**                 | Summarizes main points of a large body of text.                                                          |
 | **Machine Translation**                | Automatically translates text from one language to another.                                              |
-| **Language Detection**                 | Identifies the language of the text and returns a language code. <br> - Language name: <span style="color:#D64B91">_UNKNOWN_</span> <br>- ISO 639-1 language code <span style="color:#D64B91">_UNKNOWN_</span> <br>- Confidence level: <span style="color:#D64B91">_NaN_</span> |
+| **Language Detection**                 | Identifies the language of the text and returns a language code. <br> - Language name: <span style="color:#D64B91">**UNKNOWN**</span> <br>- ISO 639-1 language code <span style="color:#D64B91">**UNKNOWN**</span> <br>- Confidence level: <span style="color:#D64B91">**NaN**</span> |
 | **Conversational Language Understanding** | Solutions such as bots or digital assistants to interpret natural language input and return appropriate responses. |
 | **Tokenization**   | Generates tokens for partial words or combinations of words and punctuation.                  |
 | **Text Normalization** | Removing punctuation and changing all words to lower case.                               |
