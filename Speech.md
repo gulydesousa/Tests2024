@@ -3,15 +3,13 @@ Recognize and synthesize speech by using Azure AI Speech.
 
 |                            |                                                                  |
 |-----------------------------------|-----------------------------------------------------------------------------|
-| 🧾**Speech Recognition**            | Detecta y interpreta entrada hablada.                                         |
-|   - **Speech-to-Text**            | Convierte audio a texto.                                                     |
+| 🧾 **Speech RECOGNITION**            |**Speech-to-Text**   .                                         |
 |   - **Input**                     | Archivo de audio o audio en tiempo real.                                      |
 |   - **Models**                    | Modelo acústico para señal de audio a fonemas.<br>Modelo de lenguaje para fonemas a palabras. |
 |   - **Customization**             | Posibilidad de crear y entrenar modelos personalizados.                       |
 |   - **Real-time Transcription**   | Transcripción en tiempo real mientras una persona habla.                      |
 |   - **Batch Transcription**       | Transcripción en lotes para recibir resultados de transcripción asincrónica.  |
-| 🗣**Speech Synthesis**              | Genera salida hablada a partir de texto.                                      |
-|   - **Text-to-Speech**            | Convierte texto en discurso audible.                                         |
+| 🗣 **Speech SYNTHESIS**              | **Text-to-Speech**                                       |
 |   - **Input**                     | Texto a ser hablado, voz a utilizar para vocalizar.                          |
 |   - **Customization**             | Permite ajustar voz, velocidad, tono y volumen.                               |
 |   - **Models**                    | Basado en el modelo de lenguaje universal optimizado para conversación y dictado. |
