@@ -1,6 +1,6 @@
 ## 🚀 Notas para la preparación del examen
 > [!TIP]
-> ## 🗯 [Language Service](AI%20Language%20Service.md)
+> ### 🗯 [Language Service](AI%20Language%20Service.md)
 
 
 ## 📚 Azure AI Fundamentals.one
