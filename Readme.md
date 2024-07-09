@@ -1,8 +1,10 @@
 ## 🚀 Notas para la preparación del examen
 > [!TIP]
+> ### 👩 [Face Analysis](AIFace.md)
 > ### 🗯 [Language Service](AI%20Language%20Service.md)
 > ### 🗣↔🧾[Azure AI Speech](Speech.md)
 > ### 🛡 [Responsible GEN AI](ResponsibleGENAI.md)
+
 
 
 
