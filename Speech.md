@@ -12,6 +12,6 @@ Recognize and synthesize speech by using Azure AI Speech.
 | 🗣 **Speech SYNTHESIS**              | **Text-to-Speech**                                       |
 |   - **Input**                     | Texto a ser hablado, voz a utilizar para vocalizar.                          |
 |   - **Customization**             | Permite ajustar voz, velocidad, tono y volumen.                               |
-|   - **Models**                    | Basado en el modelo de lenguaje universal optimizado para conversación y dictado. |
+|   - **Models**                    | Basado en **UNIVERSAL LANGUAGE MODEL** . |
 | **Azure AI Speech Service APIs**   | APIs disponibles:<br>- Speech to text API<br>- Text to speech API             |
 | **Universal Language Model**      | Modelo entrenado por Microsoft optimizado para conversación y dictado.        |
