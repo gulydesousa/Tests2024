@@ -1,4 +1,4 @@
-## 👩 Face Analysis
+## 👩 Facial Recognition
 
 | Concept                             | Description                                                                                              |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -13,4 +13,8 @@
 | **Face Service restrictions**       | - Supported formats: JPEG, PNG, GIF, BMP.<br>- File size: Up to 6 MB.<br>- Face size range: 36x36 to 4096x4096 pixels.<br>- Impairments: Extreme face angles, lighting, occlusion. |
 | **Vision Studio**                   | Cloud-based development environment and tool for computer vision model creation.                           |
 | **Azure AI Vision**                 | Provides face detection and basic face analysis (e.g., bounding box coordinates).                          |
+| **Azure AI Custom Vision**                 | build and deploy your own image models. .                          |
 | **Azure AI Video Indexer**          | Detects and identifies faces in video content.                                                             |
+| **Face Landmarks**          | ![alt text](image-1.png)                                                             |
+   |
+| **Face Landmarks**          | ![alt text](image-1.png)                                                             |
