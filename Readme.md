@@ -1,10 +1,10 @@
 ## 🚀 Notas para la preparación del examen
 > [!TIP]
-> ### 👩 [V. Facial Recognition](AIFace.md)
-> ### 🗯 [VII. Language Service](AI%20Language%20Service.md)
-> ### 🗣↔🧾[XI. Azure AI Speech](Speech.md)
-> ### 🤖 [XIII. Fundamentals of Gen AI](GenAI.md)
-> ### 🛡 [XV. Responsible GEN AI](ResponsibleGENAI.md)
+> ### 05. 👩[Facial Recognition](AIFace.md)
+> ### 07.🗯[Language Service](AI%20Language%20Service.md)
+> ### 10. 🗣↔🧾[Azure AI Speech](Speech.md)
+> ### 13. 🤖 [Fundamentals of Gen AI](GenAI.md)
+> ### 15. 🛡 [Responsible GEN AI](ResponsibleGENAI.md)
 
 
 
