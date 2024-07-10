@@ -1,7 +1,7 @@
-### 🤖 Fundamentals of Gen AI
+## 🤖 Fundamentals of Gen AI
 
-| **Key Points** | **Details** |
-|:--------------:|-------------|
+|  | **Details** |
+|--------------|-------------|
 | 🧠 **Generative AI** | Describes a category of AI capabilities that create original content. |
 | 📚 **Language Models** | Generative AI applications are powered by language models. |
 | 🌐 **Large Language Models (LLMs)** | Trained on a wide range of general subject matter with many billions (even trillions) of parameters. |
@@ -11,7 +11,7 @@
 | ⚙️ **How Transformer Models Work** | 1. **Training Data** <br> 2. **Tokenization**<br> 3. **Embeddings**<br> 4. **Encoding**: Generate a representation of the input text. <br> 5. **Decoding**: Generate an appropriate natural language output, predicting an appropriate completion of the sentence. ![alt text](image-2.png)|
 | 🏷️ **Specific Implementations** | - **BERT (Bidirectional Encoder Representations from Transformers)**: Developed by Google, uses only the encoder block. <br> - **GPT (Generative Pretrained Transformer)**: Developed by OpenAI, uses only the decoder block. |
 | ✂️ **Tokenization** | Process of breaking text into tokens.|
-| ✂️ **Embeddings** |Contextual vectors that represent tokens in a multi-dimensional space. |
+| 💬 **Embeddings** |**CONTEXTUAL VECTORS** that represent tokens in a multi-dimensional space. |
 | 🔍 **Word2Vec** | A TECHNIQUE to calculate appropriate embeddings for a given set of tokens. |
 | 🎯 **Attention Layer** | Assigns a numeric weight to each token to quantify the strength of the relationships between tokens. <br><br> - **Encoder**: Quantifies the strength of the relationships between tokens. <br> - **Decoder**: Predicts the next token in a sequence based on the attention weights. |
 | 🗂️ **Azure Model Catalog** | - OpenAI <br> - HuggingFace <br> - Mistral <br> - Meta and others. |
